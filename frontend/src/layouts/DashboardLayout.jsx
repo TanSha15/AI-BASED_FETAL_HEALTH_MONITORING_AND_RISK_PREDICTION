@@ -58,10 +58,6 @@ export const DashboardLayout = ({ currentTab, onNavigate, children }) => {
                     <span className="font-serif text-lg font-normal tracking-tight text-stone-100">
                       Fetal<span className="italic text-vital-rose">Care</span>
                     </span>
-                    <span className="text-[10px] font-mono tracking-widest text-vital-sage uppercase bg-vital-sage/10 px-1.5 py-0.5 rounded border border-vital-sage/20 flex items-center gap-1">
-                      <span className="w-1.5 h-1.5 rounded-full bg-vital-sage animate-pulse" />
-                      LIVE
-                    </span>
                   </div>
                   <p className="text-[10px] text-stone-400 font-sans tracking-wide hidden sm:block">
                     Cardiotocography Clinical Decision Telemetry

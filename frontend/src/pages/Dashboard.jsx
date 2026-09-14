@@ -182,7 +182,6 @@ export const Dashboard = ({ onNavigate, onSelectAssessment }) => {
         <div className="lg:col-span-7 bg-obsidian-900 rounded-xl p-5 border border-white/[0.08] shadow-warm-card space-y-4">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-2">
-              <div className="w-2 h-2 rounded-full bg-vital-coral animate-ping" />
               <h3 className="font-serif text-lg text-stone-100 font-normal">
                 Live CTG Surveillance Trace
               </h3>
